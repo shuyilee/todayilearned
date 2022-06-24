@@ -1,0 +1,29 @@
+Dialogflow - Intent Classification
+
+Goals: 
+-To increase contact center call availability
+-Achieve shorter handling times
+-Improve customer satisfaction
+
+Tools:
+Dialogflow
+
+Jargon:
+
+Dialogflow Components
+
+Agents
+
+A Dialogflow agent is a virtual agent that handles conversation with end users. Falls under the natural language understanding module that understands human language. 
+translates end user text/audio -> structured data that systems can understand
+Similar to human call center agent, a Dialogflow agent needs to be trained to handle conversation scenarios. 
+
+Intents
+
+As it's name sounds, an intent helps to categorise an end user's intention for a conversation turn. We combine intents to handle a complete conversation. 
+Dialogflow helps to match  end-user expression (words or text by end-user) to the best intent in agent.
+
+Intent classification
+
+Matching an intent to end-user expression.
+
